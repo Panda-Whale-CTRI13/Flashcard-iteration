@@ -7,4 +7,4 @@
   
 
 ## Side notes
-You will need to create your own 
+You will need to create your own .env file. 
